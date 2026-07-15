@@ -5,6 +5,10 @@ public class Student {
 	private String name;
 	private int marks;
 	
+	public Student() {
+		super();
+	}
+	
 	public Student(int rollno, String name, int marks) {
 		super();
 		this.rollno = rollno;
