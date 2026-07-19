@@ -65,15 +65,7 @@ public class StudentService {
         return studentDao.deleteStudent(rollno);
     }
 
-    // 6. Apply leave
-    public boolean applyLeave(int rollno) {
-
-        if (rollno <= 0) {
-            return false;
-        }
-
-        return studentDao.applyLeave(rollno);
-    }
+    
 
     // 7. Find topper
     public Student findTopper() {

@@ -34,10 +34,7 @@ public class StudentController {
         return studentService.deleteStudent(rollno);
     }
 
-    // 6. Apply leave
-    public boolean applyLeave(int rollno) {
-        return studentService.applyLeave(rollno);
-    }
+    
 
     // 7. Find topper
     public Student findTopper() {
