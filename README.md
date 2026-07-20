@@ -406,7 +406,7 @@ StudentClient.java
 
 ### Connect with Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/jotiram-shinde
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jotiram75
 - 🌐 **GitHub:** https://github.com/jotiram75
 
 ---
@@ -419,8 +419,4 @@ You are free to use, modify, and enhance this project for **personal or academic
 
 ---
 
-# ⭐ Support
 
-If you found this project useful, please consider giving it a **⭐ Star** on GitHub!
-
-Happy Coding! 🚀
